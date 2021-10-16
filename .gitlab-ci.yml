@@ -1,4 +1,4 @@
-image: registry.splentity.com/openblox/ci-build-environment/ob:latest
+image: registry.gitlab.com/ubexs/clients/engine/ci-build-environment/ob:latest
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
